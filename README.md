@@ -1,19 +1,17 @@
 # Simple Web System (Multi-Language Showcase)
 
-This repository features a simple web system implemented in multiple high-level programming languages. Each implementation follows best practices and showcases a clean, maintainable code structure.
+This repository contains a **simple web system** implemented in multiple high-level programming languages, featuring **CRUD operations** and **basic authentication**. Each implementation follows best practices for maintainability and scalability.
+
+### Features:
+>- **CRUD operations** (Create, Read, Update, Delete)
+>- **User authentication** (Login, Logout, Basic Session Handling)
 
 ### Technologies Used:
->- **Golang**
->- **C#**
->- **Java**
->- **NodeJS**
->- **PHP**
+>- **Golang** (Fiber)
+>- **C#** (ASP.Net Core)
+>- **Java** (Spring Boot)
+>- **NodeJS** (ExpressJS)
+>- **PHP** (Laravel)
 
->- Simple Authentication
->- CRUD - **CREATE, READ, UPDATE, DELETE**
->- Examples in a few programming languages:
->	- **Golang**
->	- **C#**
->	- **Java**
->	- **NodeJS**
->	- **PHP**
+### Purpose:
+This project provides a side-by-side comparison of implementing CRUD functionality and authentication across different high-level languages, demonstrating different architectural approaches and best practices.
