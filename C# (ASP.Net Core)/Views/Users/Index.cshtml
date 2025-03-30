@@ -1,0 +1,29 @@
+@{
+	e( "Debugging in Razor View:" );
+	d( Model );
+}
+<h1 class="mt-5">List of Users</h1>
+<table class="table table-bordered table-hover mt-5">
+	<thead>
+		<tr class="table-dark">
+			<th>ID</th>
+			<th>Name</th>
+			<th>E-mail</th>
+			<th>Created</th>
+			<th>Modified</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach( var user in Model ){
+			<tr>
+				<td>@user.Id</td>
+				<td>@user.Name</td>
+				<td>@user.Email</td>
+				<td>@user.Created</td>
+				<td>@user.Modified</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+<a class="btn btn-primary" href="/users/add">Add New User</a>
