@@ -1,0 +1,10 @@
+# config/config.toml
+title = "MyApp Configuration"
+
+[database]
+driver = "mysql"
+dsn = "root@tcp(127.0.0.1:3306)/testgo"
+
+[server]
+port = 3000
+host = "127.0.0.1"
