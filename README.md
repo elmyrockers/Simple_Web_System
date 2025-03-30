@@ -12,6 +12,7 @@ This repository contains a **simple web system** implemented in multiple high-le
 >- **Java** (Spring Boot)
 >- **NodeJS** (ExpressJS)
 >- **PHP** (Laravel)
+>- **Python** (FastAPI)
 
 ### Purpose:
 > This project provides a side-by-side comparison of implementing CRUD functionality and authentication across different high-level languages, demonstrating different architectural approaches and best practices.
