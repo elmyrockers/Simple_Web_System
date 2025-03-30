@@ -14,4 +14,4 @@ This repository contains a **simple web system** implemented in multiple high-le
 >- **PHP** (Laravel)
 
 ### Purpose:
-This project provides a side-by-side comparison of implementing CRUD functionality and authentication across different high-level languages, demonstrating different architectural approaches and best practices.
+> This project provides a side-by-side comparison of implementing CRUD functionality and authentication across different high-level languages, demonstrating different architectural approaches and best practices.
