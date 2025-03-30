@@ -1,4 +1,4 @@
 # Simple Web System
 
-- SIMPLE AUTHENTICATION
+- Simple Authentication
 - CRUD - CREATE, READ, UPDATE, DELETE
