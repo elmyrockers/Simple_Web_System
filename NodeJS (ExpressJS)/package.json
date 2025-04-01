@@ -1,5 +1,12 @@
 {
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.16",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
   }
 }
