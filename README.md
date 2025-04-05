@@ -3,8 +3,8 @@
 This repository contains a **simple web system** implemented in multiple high-level programming languages, featuring **CRUD operations** and **basic authentication**. Each implementation follows best practices for maintainability and scalability.
 
 ### Features:
->- **CRUD operations** (Create, Read, Update, Delete)
 >- **User authentication** (Login, Logout, Basic Session Handling)
+>- **CRUD operations** (Create, Read, Update, Delete)
 
 ### Technologies Used:
 >- **Golang** (Fiber)
